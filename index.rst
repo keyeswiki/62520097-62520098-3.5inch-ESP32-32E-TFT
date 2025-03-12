@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: 2.8inch ESP32-32E TFT显示模组
+   :caption: 3.5 inch ESP32-32E TFT显示模组
 
    产品介绍.md
    产品参数.md
